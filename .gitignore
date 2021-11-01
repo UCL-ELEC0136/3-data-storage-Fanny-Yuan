@@ -130,3 +130,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.vs/3-data-storage-Fanny-Yuan/v15/.suo
+/.vs
